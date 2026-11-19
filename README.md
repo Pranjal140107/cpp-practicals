@@ -13,7 +13,7 @@ int main()
     cin >> num2;
     sum = num1 + num2 + bonus;
     cout << "\nSum = " << sum << endl;
-    cout << "Is sum greater than 50? "
+    cout << "Is sum greater than 50?"
          << (sum > 50) << endl;
     cout << "Are both numbers positive? "
          << (num1 > 0 && num2 > 0) << endl;
